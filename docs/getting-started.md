@@ -60,6 +60,6 @@ Metacall supports `Node.js (JavaScript), Python, and Ruby` out of the box. This 
 
 import MetacallMeme from '@site/static/img/metacall-meme.png'
 
-Learn how Metacall works behind the scenes. 🚀
+Now that you know what Metacall is, learn how it works behind the scenes. 🚀
 
 <img src={MetacallMeme} />
