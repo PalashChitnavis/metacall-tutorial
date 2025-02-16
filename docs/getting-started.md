@@ -32,6 +32,14 @@ import ExampleUsage from '@site/static/img/example-usage.png';
 
 <img src={ExampleUsage}/>
 
+### Use Cases of Metacall
+
+| Use Case                          | Language Combination | Strengths                                              |
+|:---------------------------------:|:--------------------:|:------------------------------------------------------:|
+| Real-Time Data Processing + ML    | Go + Python         | Go: Speed and concurrency; Python: ML and data analysis. |
+| High-Performance Web Server       | Node.js + Rust      | Node.js: Scalability; Rust: Performance and memory safety. |
+| Enterprise Application Development | Ruby + C#          | Ruby: Rapid prototyping; C#: Enterprise features and strong typing. |
+
 
 ### Components of Metacall
 
