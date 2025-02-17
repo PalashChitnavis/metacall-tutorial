@@ -12,7 +12,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 const config = {
   title: 'Metacall Tutorial',
   tagline: 'Documentation for MetaCall',
-  favicon: 'img/favicon.ico',
+  favicon: 'img/metacall-logo.png',
 
   // Set the production url of your site here
   url: 'https://docs-ptc.netlify.app',
@@ -60,7 +60,7 @@ const config = {
         title: 'Metacall Docs',
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/metacall-logo.png',
         },
         items: [
           {

@@ -34,6 +34,9 @@ import ExampleUsage from '@site/static/img/example-usage.png';
 
 ### Use Cases of Metacall
 
+The main use case of Metacall is to combine multiple programming languages, allowing the weaknesses of one language to be offset by the strengths of another.
+
+
 | Use Case                          | Language Combination | Strengths                                              |
 |:---------------------------------:|:--------------------:|:------------------------------------------------------:|
 | Real-Time Data Processing + ML    | Go + Python         | Go: Speed and concurrency; Python: ML and data analysis. |
