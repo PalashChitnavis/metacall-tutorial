@@ -4,7 +4,7 @@ sidebar_position: 1
 
 # Getting Started with Metacall
 
-**MetaCall** is a **polyglot** tool that allows calling _functions_, _methods_, _procedures_ between different programming languages.
+**Metacall** is a **Polyglot** tool that allows calling _functions_, _methods_, _procedures_ between different programming languages.
 
 With **Metacall** you can call _Python_ functions from _NodeJS_, run _C#_ methods from _Golang_ and much more.
 
